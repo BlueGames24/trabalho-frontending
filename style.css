@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: #f8f8f8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.collections {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.collections h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.collections-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.collection-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.collection-card img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.collection-card p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.view-all {
+    display: inline-block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.view-all:hover {sadasdasd
+    text-decoration: underline;
+}
