@@ -1,3 +1,9 @@
+h1 img {
+    width: 100px;
+    height: 100px;
+margin: flex;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
